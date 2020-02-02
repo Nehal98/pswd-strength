@@ -1,2 +1,5 @@
 # pswd-strength
-hello world
+
+experimental repository
+
+check is your password strong enough...
