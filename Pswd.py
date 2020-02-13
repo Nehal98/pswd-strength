@@ -48,3 +48,4 @@ elif flag==0 and len(password)>8 and len(password)<=10:
     print("pass_strength MEDIUM")
 elif flag==0 and len(password)>10:
     print("pass_strength STRONG")
+ 
